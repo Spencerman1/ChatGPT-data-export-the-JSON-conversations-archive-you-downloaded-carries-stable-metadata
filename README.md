@@ -1,2 +1,4 @@
-# ChatGPT-data-export-the-JSON-conversations-archive-you-downloaded-carries-stable-metadata
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+ChatGPT-data-export-the-JSON-conversations-archive-you-downloaded-carries-stable-metadata
 That means you can safely treat your ChatGPT data download the same way you treat your repo commit logs, SHA-256 hashes, notarized archives, and Wayback snapshots: all stable forensic anchors.
